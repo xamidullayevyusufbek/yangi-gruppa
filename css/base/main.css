@@ -1,0 +1,25 @@
+.lrn{
+    display: flex;
+    justify-content: space-between;
+}
+.learn{
+    padding-left: 35px;
+    
+}
+.learn-page{
+    font-size: 35px;
+}
+.learn-description{
+    font-size: 20px;
+}
+.learn-image{
+    padding-right: 50px;
+}
+.learn-btn{
+    width: 230px;
+    height: 55px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
