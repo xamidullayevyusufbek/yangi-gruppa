@@ -1,8 +1,14 @@
 .shop-cnt{
-    background-image: url(/pages/porsche.png);
     margin: 0 auto;
     height: 550px;
-    width: 100%;
+    /* width: 100px; */
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 .shop{
     display: flex;
@@ -36,12 +42,10 @@
     color: white;
     font-size: 50px;
     margin-top: 60px;
-    text-align: center;
 }
 .shop-description{
     color: white;
     font-size: 20px;
-    text-align: center ;
 }
 .shop-btn{
     border: none;
